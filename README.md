@@ -1,4 +1,4 @@
 dicecoffee
 ==========
 
-Iced coffee recipe.
+Iced coffee recipe. Subject to much change.
